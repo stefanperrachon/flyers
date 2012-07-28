@@ -1,0 +1,12 @@
+to put stuff on the remote repo:
+git add .
+git commit -m "put the message about the commit here"
+git push https://github.com/stefanperrachon/flyers.git
+
+
+to get stuff from the remote repo:
+FIRST DO THIS:
+git add .
+git commit -m "sdkfsd;lkf"
+git pull https://github.com/stefanperrachon/flyers.git
+
